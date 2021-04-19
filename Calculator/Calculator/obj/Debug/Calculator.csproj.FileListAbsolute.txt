@@ -1,0 +1,27 @@
+G:\TGS\Kalkulator_GalihPutraA_XIIRPL2_31\Calculator\Calculator\bin\Debug\Calculator.exe.config
+G:\TGS\Kalkulator_GalihPutraA_XIIRPL2_31\Calculator\Calculator\bin\Debug\Calculator.exe
+G:\TGS\Kalkulator_GalihPutraA_XIIRPL2_31\Calculator\Calculator\bin\Debug\Calculator.pdb
+G:\TGS\Kalkulator_GalihPutraA_XIIRPL2_31\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+G:\TGS\Kalkulator_GalihPutraA_XIIRPL2_31\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+G:\TGS\Kalkulator_GalihPutraA_XIIRPL2_31\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+G:\TGS\Kalkulator_GalihPutraA_XIIRPL2_31\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+G:\TGS\Kalkulator_GalihPutraA_XIIRPL2_31\Calculator\Calculator\obj\Debug\Calculator.exe
+G:\TGS\Kalkulator_GalihPutraA_XIIRPL2_31\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\Tugas\KELAS 12\KK2\Kalkulator_GalihPutraA_XIIRPL2_31\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Tugas\KELAS 12\KK2\Kalkulator_GalihPutraA_XIIRPL2_31\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Tugas\KELAS 12\KK2\Kalkulator_GalihPutraA_XIIRPL2_31\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\Tugas\KELAS 12\KK2\Kalkulator_GalihPutraA_XIIRPL2_31\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Tugas\KELAS 12\KK2\Kalkulator_GalihPutraA_XIIRPL2_31\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Tugas\KELAS 12\KK2\Kalkulator_GalihPutraA_XIIRPL2_31\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+D:\Tugas\KELAS 12\KK2\Kalkulator_GalihPutraA_XIIRPL2_31\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+D:\Tugas\KELAS 12\KK2\Kalkulator_GalihPutraA_XIIRPL2_31\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\Tugas\KELAS 12\KK2\Kalkulator_GalihPutraA_XIIRPL2_31\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+D:\UKK\KalkulatorDevana_05_XIIRPL2\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\UKK\KalkulatorDevana_05_XIIRPL2\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\UKK\KalkulatorDevana_05_XIIRPL2\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\UKK\KalkulatorDevana_05_XIIRPL2\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\UKK\KalkulatorDevana_05_XIIRPL2\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\UKK\KalkulatorDevana_05_XIIRPL2\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+D:\UKK\KalkulatorDevana_05_XIIRPL2\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+D:\UKK\KalkulatorDevana_05_XIIRPL2\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\UKK\KalkulatorDevana_05_XIIRPL2\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
